@@ -1,0 +1,29 @@
+{
+    "name":         "koa-react-render",
+    "version":      "0.0.0",
+    "description":  "",
+    "main":         "index.js",
+    "scripts":      {
+    },
+    "repository":   {
+        "type": "git",
+        "url":  "git+https://github.com/jordansexton/koa-react-render.git"
+    },
+    "keywords":     [
+        "koa",
+        "react",
+        "render"
+    ],
+    "author":       "Jordan Sexton <jordan@jordansexton.com>",
+    "contributors": [
+        {
+            "name":  "Jordan Sexton",
+            "email": "jordan@jordansexton.com"
+        }
+    ],
+    "license":      "ISC",
+    "bugs":         {
+        "url": "https://github.com/jordansexton/koa-react-render/issues"
+    },
+    "homepage":     "https://github.com/jordansexton/koa-react-render"
+}
